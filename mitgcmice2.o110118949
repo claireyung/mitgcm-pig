@@ -20,21 +20,21 @@ Calculated n_timesteps from starttime and endtime
   dt * ntimesteps: 864000.0
 Checking exe and input manifests
 Updating full hashes for 1 files in manifests/exe.yaml
-Updating full hashes for 8 files in manifests/input.yaml
+Updating full hashes for 4 files in manifests/input.yaml
 Creating restart manifest
 Writing manifests/input.yaml
 Writing manifests/restart.yaml
 Writing manifests/exe.yaml
 
 ======================================================================================
-                  Resource Usage on 2024-03-05 23:54:56:
-   Job Id:             110117974.gadi-pbs
+                  Resource Usage on 2024-03-06 00:05:21:
+   Job Id:             110118949.gadi-pbs
    Project:            x77
    Exit Status:        1
-   Service Units:      1.28
+   Service Units:      1.04
    NCPUs Requested:    144                    NCPUs Used: 144             
-                                           CPU Time Used: 00:01:26        
-   Memory Requested:   200.0GB               Memory Used: 22.99GB         
-   Walltime requested: 03:00:00            Walltime Used: 00:00:16        
+                                           CPU Time Used: 00:01:25        
+   Memory Requested:   200.0GB               Memory Used: 23.01GB         
+   Walltime requested: 03:00:00            Walltime Used: 00:00:13        
    JobFS requested:    300.0MB                JobFS used: 0B              
 ======================================================================================
