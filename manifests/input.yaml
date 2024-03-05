@@ -186,6 +186,11 @@ work/Z3D_S2.bin:
   hashes:
     binhash: aa194b0a26cd55692f4cc813de0a276e
     md5: 49d0f2d38a051b87813dc7170339a260
+work/data.exf_xx:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/data.exf_xx
+  hashes:
+    binhash: 18f7cef6d540f1e43dc35c56252af28b
+    md5: 7d574657da2be14d295066df6d809faf
 work/data.shelfice:
   fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/data.shelfice
   hashes:
@@ -1189,17 +1194,17 @@ work/llc270_it50_v10m_2018:
 work/manifests/exe.yaml:
   fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/manifests/exe.yaml
   hashes:
-    binhash: 8f2ec09f5931f4df49c23eebe1867c72
+    binhash: 623b54c248dd2ab92c80a52dab9a9b7d
     md5: deba785b0a4edbf97a406ed459a68d37
 work/manifests/input.yaml:
   fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/manifests/input.yaml
   hashes:
-    binhash: b4a1a56e17bcdb80f18016d786523735
-    md5: b251b3010a40ed716dbfd247a4ef2af8
+    binhash: 036febb6f7250e20b946e530c65e0b8a
+    md5: 57fdc24f1d127f3a11233e7a2eed6611
 work/manifests/restart.yaml:
   fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/manifests/restart.yaml
   hashes:
-    binhash: 1889460748efae480a53a73561c2a425
+    binhash: c750000dbae464c63729fa1c2848d0f7
     md5: 878609bbf19a68a4adb60e0bcac32e2a
 work/mitgcm.err:
   fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/mitgcm.err
