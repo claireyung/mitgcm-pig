@@ -1,0 +1,8 @@
+format: yamanifest
+version: 1.0
+---
+work/mitgcmuv:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/mitgcmuv
+  hashes:
+    binhash: fd3be2f6fb190c114940230f2abbe49b
+    md5: 120f770e4ef7eddc45864185394d67e6

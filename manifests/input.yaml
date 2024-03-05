@@ -1,0 +1,1243 @@
+format: yamanifest
+version: 1.0
+---
+work/Bedrock_BedMachine_ext_qsg_yosi3.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/Bedrock_BedMachine_ext_qsg_yosi3.bin
+  hashes:
+    binhash: 0e20cc867c823dab9fac6af91104f192
+    md5: f31cf4dd7c31b7ed021f0dca3dfa43d2
+work/Bedrock_BedMachine_ext_qsg_yosi3_init.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/Bedrock_BedMachine_ext_qsg_yosi3_init.bin
+  hashes:
+    binhash: 0a1e2aae9141da6731d026fc8c6ee6a1
+    md5: 7618cddf20afaf17594902b09e1a8adb
+work/FOBEs_200_for_cilan_rev.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBEs_200_for_cilan_rev.bin
+  hashes:
+    binhash: 1813ad5b3811ca5d59331f38ddfc41c2
+    md5: 87f971aa9e40cd133bd88c8515288c63
+work/FOBEs_600x130x1440_new.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBEs_600x130x1440_new.bin
+  hashes:
+    binhash: eaceb4b42f361b530139f37d04882efb
+    md5: f8c718a97d7515a4818832eb2bbb41c8
+work/FOBEt_200_for_cilan_rev.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBEt_200_for_cilan_rev.bin
+  hashes:
+    binhash: 8da14dcd1acf84cdcd9b8d1c2cdc7258
+    md5: 59295d9e3191224da4fe10808b5f2fe8
+work/FOBEt_600x130x1440_2_new_yosi2.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBEt_600x130x1440_2_new_yosi2.bin
+  hashes:
+    binhash: af056233a74770540ea0cda56879561c
+    md5: 82efa0897c9906119420d8b40504bb85
+work/FOBEt_600x130x1440_new.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBEt_600x130x1440_new.bin
+  hashes:
+    binhash: d6b2c0e98615cd302e56edb98cfbbfdd
+    md5: eea5b8ecba856de727e734ff8a7a3127
+work/FOBEu_200_for_cilan_rev.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBEu_200_for_cilan_rev.bin
+  hashes:
+    binhash: ede9b4f698f683cf8b8714e317799ce7
+    md5: ff6607fb9eb3b4f2ec86a740cd19c7a7
+work/FOBEu_600x130x1440_100_new.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBEu_600x130x1440_100_new.bin
+  hashes:
+    binhash: 59b8352a6d68dc847eec1fdb9d969cc0
+    md5: 48c2c12386cf19ea1e4913ec9e017093
+work/FOBEu_600x130x1440_10_new.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBEu_600x130x1440_10_new.bin
+  hashes:
+    binhash: 7ed02e75ffaba425dfea4c9c5041aa50
+    md5: 0c5ff44b90c3923dbb73ab1e797b0a04
+work/FOBEu_600x130x1440_2_new.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBEu_600x130x1440_2_new.bin
+  hashes:
+    binhash: f8b6875772ec65667ac531b76806cca2
+    md5: 60b43d5afe6f52b036c9845f4ebfb040
+work/FOBEu_600x130x1440_2_new_yosi.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBEu_600x130x1440_2_new_yosi.bin
+  hashes:
+    binhash: fa1304fd3ff08dfa6db7b855cb463c1c
+    md5: 225370103ae106be2a45294451bdecd2
+work/FOBEu_600x130x1440_2_new_yosi2.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBEu_600x130x1440_2_new_yosi2.bin
+  hashes:
+    binhash: 74f666c2542f4d869d201847a667b481
+    md5: ee499b24642d75ef6d8e3c42f2c868ea
+work/FOBEu_600x130x1440_2_new_yosi2_10.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBEu_600x130x1440_2_new_yosi2_10.bin
+  hashes:
+    binhash: 580d7f26a40dc3dafd745f8337447dfa
+    md5: def0f4e4b6d0066addaebbd326e3bda9
+work/FOBEu_600x130x1440_2_new_yosi2_2.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBEu_600x130x1440_2_new_yosi2_2.bin
+  hashes:
+    binhash: 0dff2500619434fea109336775952688
+    md5: bf6f6f9e3e7c52096718e1fd81f5ee7f
+work/FOBEu_600x130x1440_2_new_yosi2_50.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBEu_600x130x1440_2_new_yosi2_50.bin
+  hashes:
+    binhash: c5dbdfcfe5d772d313917fc1c0885c94
+    md5: f1218b5fc561f622836580039ff1de7b
+work/FOBEu_600x130x1440_50_new.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBEu_600x130x1440_50_new.bin
+  hashes:
+    binhash: 525b6dc42e394b8b616597f45155f901
+    md5: 2c01f4cc383fc6b42dca244996d1a127
+work/FOBEu_600x130x1440_new.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBEu_600x130x1440_new.bin
+  hashes:
+    binhash: b7b6ab9fe53d4bbffd1e259875159cb7
+    md5: 3ce180ad710b0f507a7ef5d86a6f105c
+work/FOBEv_200_for_cilan_rev.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBEv_200_for_cilan_rev.bin
+  hashes:
+    binhash: 36b6ea833738346e8f398d176f379d82
+    md5: fdcbadbf2bde8860290f9329b712924d
+work/FOBEv_600x130x1440_new.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBEv_600x130x1440_new.bin
+  hashes:
+    binhash: 1a43eb32717eb710ba3ce10c45eadcc5
+    md5: f8c718a97d7515a4818832eb2bbb41c8
+work/FOBNs_200_for_cilan_rev.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBNs_200_for_cilan_rev.bin
+  hashes:
+    binhash: b7379ec23781f456237e60134f0c66b0
+    md5: 3a60cd5feec8030501aa09bd3e503e34
+work/FOBNs_460x130x1440_new.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBNs_460x130x1440_new.bin
+  hashes:
+    binhash: 0b1b87114e136fa740c042cbfb18a392
+    md5: c5417c74b0363b84396e1b79204c6dc0
+work/FOBNt_200_for_cilan_rev.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBNt_200_for_cilan_rev.bin
+  hashes:
+    binhash: ee165e8dd0267d2ec622bb908b2992fa
+    md5: a35f6fc4ee02414f3da69767babd7722
+work/FOBNt_460x130x1440_new.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBNt_460x130x1440_new.bin
+  hashes:
+    binhash: 53cdf8b8e1a750df1a2b227916e0e12c
+    md5: d4ed802512a71ef446c4f3496efd6072
+work/FOBNu_200_for_cilan_rev.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBNu_200_for_cilan_rev.bin
+  hashes:
+    binhash: 68156eb8570537c3a9be90fc206c83e5
+    md5: 4c00d0b0cb2aa62c0fcbb75d8200de1d
+work/FOBNu_460x130x1440_new.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBNu_460x130x1440_new.bin
+  hashes:
+    binhash: b90e8e907206b1de77b333bcab9e4c00
+    md5: 58d80fc68c5fc89b6a59ca63c95eb78e
+work/FOBNv_200_for_cilan_rev.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBNv_200_for_cilan_rev.bin
+  hashes:
+    binhash: 5810d91626960352945a23456e6f4933
+    md5: 6381d2736eca2bed53555aabd9bbf890
+work/FOBNv_460x130x1440_new.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/FOBNv_460x130x1440_new.bin
+  hashes:
+    binhash: 50de183173bf392e8d7ade3b9b2af4f3
+    md5: d4ed802512a71ef446c4f3496efd6072
+work/IceDraft_BedMachine_ext_qsg.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/IceDraft_BedMachine_ext_qsg.bin
+  hashes:
+    binhash: 9c1f94a956760fb9a94e350716a0594e
+    md5: 9c8062abccc58bb5f25414540d6fd754
+work/IceDraft_BedMachine_ext_qsg_yosi.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/IceDraft_BedMachine_ext_qsg_yosi.bin
+  hashes:
+    binhash: 35a399e1b8a2ffb12bf4a3e825505a29
+    md5: 32239f10c97df5b7a23c8a6571d747b2
+work/IceDraft_BedMachine_ext_qsg_yosi2.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/IceDraft_BedMachine_ext_qsg_yosi2.bin
+  hashes:
+    binhash: e378dac064c3349afdeed0879e981bfd
+    md5: fd6ce5b05eecedb2685262838a11010d
+work/IceDraft_BedMachine_ext_qsg_yosi3.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/IceDraft_BedMachine_ext_qsg_yosi3.bin
+  hashes:
+    binhash: 49b0da6a6ef6fb3780a8ffc9f80357f5
+    md5: 60041a7dae98009a56e911ad066c335e
+work/IceDraft_BedMachine_qsg.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/IceDraft_BedMachine_qsg.bin
+  hashes:
+    binhash: 44b782772edcecfb9107f4479f0b6dd0
+    md5: f6984a119003cf80da35f4d223d48933
+work/IceDraft_BedMachine_yosi2.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/IceDraft_BedMachine_yosi2.bin
+  hashes:
+    binhash: 923f4341af7af85a19307e5ece9c2600
+    md5: f1fa4a7c9b7a1228477669127e91cd56
+work/Z2Dice.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/Z2Dice.bin
+  hashes:
+    binhash: 75b79be4772f6ae4a465ed1476067778
+    md5: 30ddbd4d13669f311505632d824307fd
+work/Z3D_S.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/Z3D_S.bin
+  hashes:
+    binhash: 90a07a6fe50f7091d03df15626f6086d
+    md5: 963a735cfe6789b4ccdd7a12979e05e6
+work/Z3D_S2.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/Z3D_S2.bin
+  hashes:
+    binhash: aa194b0a26cd55692f4cc813de0a276e
+    md5: 49d0f2d38a051b87813dc7170339a260
+work/data.shelfice:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/data.shelfice
+  hashes:
+    binhash: 72937600a63f8ee97a5c225d37012f06
+    md5: abf8a09c7569b4acd6b60514fa41f49a
+work/env.yaml:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/env.yaml
+  hashes:
+    binhash: ce05ed40ae314e1051ae6a7570280a97
+    md5: f8a39ecd7d279ba01234e15b797e2bba
+work/iniS_200m.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/iniS_200m.bin
+  hashes:
+    binhash: 37fe6e690a6a9d9108fd5febc65b8c41
+    md5: 7fe858aff99dba295627ef0fea5d37c3
+work/iniT_200m.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/iniT_200m.bin
+  hashes:
+    binhash: aef2a89ebebb6ced50084487948ebd42
+    md5: 6659f723e6838ada693ffd7b64c12d32
+work/ini_tr1.bin.data:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/ini_tr1.bin.data
+  hashes:
+    binhash: e026ffa2a13af7e931ce31bca4ad5819
+    md5: 4fbcd75729863db7f93dec8b3760a196
+work/initS_latlon_qsg.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/initS_latlon_qsg.bin
+  hashes:
+    binhash: f6a7b6236f1384c63e4c40e49e4815ed
+    md5: 20dcaf5c2cc8275465a04d40394113db
+work/initS_latlon_small.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/initS_latlon_small.bin
+  hashes:
+    binhash: f4c9351f9bd717b307f3c8551e33b795
+    md5: 884cd177b67e55e8982b6b3379d86c84
+work/initT_latlon_qsg.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/initT_latlon_qsg.bin
+  hashes:
+    binhash: acf53165e1fda293afcef6b24f4de91b
+    md5: e6feb06569e702cf273ca8d3892c244c
+work/initT_latlon_small.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/initT_latlon_small.bin
+  hashes:
+    binhash: 33ed5921058f733aaf030d0fa331221c
+    md5: baa634036708f9770a7312434dcc5893
+work/itopo_200m.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/itopo_200m.bin
+  hashes:
+    binhash: f18e6689714658aca9bead98a84cc219
+    md5: c7c31503e32135260017c04ec493399f
+work/latlon_run23.sh:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/latlon_run23.sh
+  hashes:
+    binhash: accf484bdc627f7f77443028fec2f96c
+    md5: e6b3500b7a86044ec4a28d1b9f3e699e
+work/llc270_it50_dlw_1992:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_1992
+  hashes:
+    binhash: ebffe5dcaeae6a82d202b8b90683cde4
+    md5: abaf034fe133e9df5ac94849e3b704e5
+work/llc270_it50_dlw_1993:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_1993
+  hashes:
+    binhash: 156f195a84b08a8431287b4f1beed5c5
+    md5: 3566ddeb8f648bbe6515fc5415a1dccf
+work/llc270_it50_dlw_1994:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_1994
+  hashes:
+    binhash: 946d8f9a92f1906afb56b6a9d99b925d
+    md5: 75988370b62f1e5f9dda17a262cb822d
+work/llc270_it50_dlw_1995:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_1995
+  hashes:
+    binhash: 291e4cfffd02c931dcac09bc99430560
+    md5: 8c81ed7554e0e8eda2edd72e910757ba
+work/llc270_it50_dlw_1996:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_1996
+  hashes:
+    binhash: 8f35be3dec547d9a6822022ceb6e23a4
+    md5: c9ecd8ebef9a315ec20d4df101c11879
+work/llc270_it50_dlw_1997:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_1997
+  hashes:
+    binhash: b0aee8e2a8d32ffc92260e3066545072
+    md5: 5329c7393fe336d42cc8ddfb23d3e110
+work/llc270_it50_dlw_1998:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_1998
+  hashes:
+    binhash: 62cd7bb855c048c881318deb9b899f73
+    md5: b956994b9400e19087e22e24b7bab8a9
+work/llc270_it50_dlw_1999:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_1999
+  hashes:
+    binhash: 6f44a46e7a3fe7f49b3aacb4de6721ed
+    md5: 46cccb6d4be7d44898b8dcca4d74e6e5
+work/llc270_it50_dlw_2000:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_2000
+  hashes:
+    binhash: 76bcd25ee828c706ed5e4e3e0d8b57c6
+    md5: b42137b4275fd4b64fbac0bd60e2c143
+work/llc270_it50_dlw_2001:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_2001
+  hashes:
+    binhash: a59669f8240949226d541e28888aa9b6
+    md5: dd3db75e79081ea6888832f3121f54bd
+work/llc270_it50_dlw_2002:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_2002
+  hashes:
+    binhash: 99cd74622053e907fd32a36898134ae0
+    md5: 1c60f62f2d3469b4e84e35390227b62c
+work/llc270_it50_dlw_2003:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_2003
+  hashes:
+    binhash: f46a653497bb5ab244dda814c63830af
+    md5: e0b87fde72c2ea1a458561a5284a736d
+work/llc270_it50_dlw_2004:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_2004
+  hashes:
+    binhash: c16741948b9253f6f93cbf214766413d
+    md5: 4cb3088912c81fd2488748818202b560
+work/llc270_it50_dlw_2005:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_2005
+  hashes:
+    binhash: df4e34eee3a11c9c8486412a96625cc7
+    md5: 22fa73eaf94c8f5e5dc5a2a177ad5a4f
+work/llc270_it50_dlw_2006:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_2006
+  hashes:
+    binhash: f6a7b80c7f93b45a8498bfd4e7ee77b5
+    md5: 7d5fc917b2bb25e24089353021273f64
+work/llc270_it50_dlw_2007:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_2007
+  hashes:
+    binhash: 691da70cb3cf15ee87954248658e988a
+    md5: 3e386273931ef9865953b205f00d3d32
+work/llc270_it50_dlw_2008:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_2008
+  hashes:
+    binhash: 7a82b0e55fc10431fe9ab18a7e19a09a
+    md5: 92f0ddd223031d2407f699c16ec005d0
+work/llc270_it50_dlw_2009:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_2009
+  hashes:
+    binhash: 2ab21a43c7246b9925c8762d2c136854
+    md5: 6fac6fc9892ae8cf77da1777e9ab6ab7
+work/llc270_it50_dlw_2010:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_2010
+  hashes:
+    binhash: 5e14fc6f60375f7438ea6183d9386232
+    md5: 7eaa59fc2851e54055be76c0a7accacb
+work/llc270_it50_dlw_2011:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_2011
+  hashes:
+    binhash: 602fc93cda08aeda07ff6f7554076faf
+    md5: 4d18710ebe08af881f9fb526c8998d49
+work/llc270_it50_dlw_2012:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_2012
+  hashes:
+    binhash: 54965da9f93f0772b84fb67d76ce9470
+    md5: 7d2c8cd1badf36fe19ca2bc83d44e93f
+work/llc270_it50_dlw_2013:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_2013
+  hashes:
+    binhash: 2e3c742ee93fd219951b9a1cdfa5b3ad
+    md5: d6b869242b3f96f25ba90909b786d2bf
+work/llc270_it50_dlw_2014:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_2014
+  hashes:
+    binhash: b538566f01839421993b2c563ffcdc32
+    md5: 978d7f668ba9adc7149a2f91728526cc
+work/llc270_it50_dlw_2015:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_2015
+  hashes:
+    binhash: abcbdbb0df02c6dce6b7dfb345affb20
+    md5: a4fd36c9e351b3fdea37ecee8a9c1f63
+work/llc270_it50_dlw_2016:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_2016
+  hashes:
+    binhash: 5fbafd89eece34064840d1d12e7a9c2d
+    md5: e1c7f7bc059a7f87a6ae7292af11a598
+work/llc270_it50_dlw_2017:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_2017
+  hashes:
+    binhash: bb77d01c7a6ef5b61b9903b237550d27
+    md5: 149e922a3bfaa11359080c21000fc3d0
+work/llc270_it50_dlw_2018:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dlw_2018
+  hashes:
+    binhash: 0b3560e947700355863a3828a10d4bb9
+    md5: 149e922a3bfaa11359080c21000fc3d0
+work/llc270_it50_dsw_1992:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_1992
+  hashes:
+    binhash: 77100e3439d0f3fc177ac25d6fcbfe2a
+    md5: e0f57e68ab8b2f700f3e8dbcfa1def2d
+work/llc270_it50_dsw_1993:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_1993
+  hashes:
+    binhash: ba5b69f9b3ed3b446fc7f77ba4841f82
+    md5: db59d4f1c52e2e3e84fa334e02bd91aa
+work/llc270_it50_dsw_1994:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_1994
+  hashes:
+    binhash: 5c1d73b24adfeea4849a7986af1a7235
+    md5: 951e3a59faaa726a941c06f7071b7d34
+work/llc270_it50_dsw_1995:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_1995
+  hashes:
+    binhash: ac328cbccc6201905baee487bcb6a9ca
+    md5: fc053f11b4d34260d02f8235cfa028cb
+work/llc270_it50_dsw_1996:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_1996
+  hashes:
+    binhash: 2aa6c095026b14fff6210cf63ece2d42
+    md5: 164c227e1e925aee5cb81f177212207e
+work/llc270_it50_dsw_1997:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_1997
+  hashes:
+    binhash: eecaed1329f92052f2e4f740e567e827
+    md5: d046cd32f516d13e70be3b2025a460bc
+work/llc270_it50_dsw_1998:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_1998
+  hashes:
+    binhash: 808d02ba6f39636c9be1b2854b5c8106
+    md5: f20cc68836e9c795001e6bd8f7c2b569
+work/llc270_it50_dsw_1999:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_1999
+  hashes:
+    binhash: 0877ede03a24dcd77b66035102aa4daa
+    md5: 07fde0282e4e276b9af4ad0b3339aae4
+work/llc270_it50_dsw_2000:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_2000
+  hashes:
+    binhash: d6900aad6c89d668f09eb477928d278f
+    md5: e372afe58dd4ee72ab18de7f00b2a35d
+work/llc270_it50_dsw_2001:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_2001
+  hashes:
+    binhash: 0d7916612a5ca2bff2c9e43caa8f8f0c
+    md5: 85b4666ca1b8cdf0f520f1f99e87ca99
+work/llc270_it50_dsw_2002:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_2002
+  hashes:
+    binhash: fe3cd0182a1d547ca37e798076448387
+    md5: 0ca6bb6e38b66be4d702cce3b490ab71
+work/llc270_it50_dsw_2003:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_2003
+  hashes:
+    binhash: 9424b04b86bd074c27f2a0021c343afc
+    md5: 653ac50974dac10f04e5c055982bc889
+work/llc270_it50_dsw_2004:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_2004
+  hashes:
+    binhash: 4a4c5866d46d858aaa454f14145a0be7
+    md5: cabd3cf40f5dc6f3fdb69b8726df5ff9
+work/llc270_it50_dsw_2005:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_2005
+  hashes:
+    binhash: 51660ce0b5a4774f79467ad8edaf5585
+    md5: d97c00a5b4d196f21a28d91bdd01cd15
+work/llc270_it50_dsw_2006:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_2006
+  hashes:
+    binhash: ca3212ed40d413baa24d914d59dfce86
+    md5: 26a195f3097da7dcf431271c970849c8
+work/llc270_it50_dsw_2007:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_2007
+  hashes:
+    binhash: 426dde29835d7b52e8af637218b4e7ea
+    md5: 4fc1c52ed96d11d6ebfc7d20fcfa85d6
+work/llc270_it50_dsw_2008:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_2008
+  hashes:
+    binhash: 3032f54f666449a8b070b59b1a33535e
+    md5: 60d3a409098742421735085e7b4d3ca4
+work/llc270_it50_dsw_2009:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_2009
+  hashes:
+    binhash: efa84797336841ff12ab018587d929bd
+    md5: 7d21fe425675d46f51bc02456b5483d0
+work/llc270_it50_dsw_2010:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_2010
+  hashes:
+    binhash: 4c19ed88d7b9a0462f007542601f2585
+    md5: ca4350e2c50c6bd042324a302930bb19
+work/llc270_it50_dsw_2011:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_2011
+  hashes:
+    binhash: 0b1b4ff708b31e4734d374446baa0744
+    md5: a824b736e3e359ff754c46c13c65dae1
+work/llc270_it50_dsw_2012:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_2012
+  hashes:
+    binhash: 02b47d2d8bd1410a4751d68644a4e3d8
+    md5: 19b0e299fcb0da840c7ffa66845106c8
+work/llc270_it50_dsw_2013:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_2013
+  hashes:
+    binhash: d175516049474b490710fba3040f16d1
+    md5: 232c09b020829a0c38134bca26525e95
+work/llc270_it50_dsw_2014:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_2014
+  hashes:
+    binhash: ca41c503c5ef485f56efbf31c3eab0ed
+    md5: fa9dcec578e260450dbc0464bcc4673b
+work/llc270_it50_dsw_2015:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_2015
+  hashes:
+    binhash: 0df839e993d9c5a456cb905bd1630f58
+    md5: 6b6a877a01dbed7f17952a035ad5a717
+work/llc270_it50_dsw_2016:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_2016
+  hashes:
+    binhash: 7e26826fb1cf546ca8f680b72b587159
+    md5: 33b9371d3d183ee66c955f32fd08bb55
+work/llc270_it50_dsw_2017:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_2017
+  hashes:
+    binhash: f48d277997c5ce03819b4286b8326389
+    md5: 3de43a49ff8d9853ace769e8d140f9c7
+work/llc270_it50_dsw_2018:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_dsw_2018
+  hashes:
+    binhash: 01ca527d315ea4080326ad53fe3fd1df
+    md5: 3de43a49ff8d9853ace769e8d140f9c7
+work/llc270_it50_rain_1992:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_1992
+  hashes:
+    binhash: c49b357f58e9c8b713e3d2a46ad3336a
+    md5: 1e87dc4a815b39122912b1dbfc72fa8e
+work/llc270_it50_rain_1993:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_1993
+  hashes:
+    binhash: 473f704f631fbc44f8f655a6bb1bbfc2
+    md5: 9e055d0e4ac05a688b9261752e328d69
+work/llc270_it50_rain_1994:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_1994
+  hashes:
+    binhash: b974f0f9b7afc9912734f4671c33a42d
+    md5: 23dc8f6fe9d0b6cc7683c7b0bab11953
+work/llc270_it50_rain_1995:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_1995
+  hashes:
+    binhash: 7f95e84676e6a363a9153b3adb78f6cc
+    md5: 5ee67538a2e6cb5ddbc4873e9493f80a
+work/llc270_it50_rain_1996:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_1996
+  hashes:
+    binhash: 190190fc02f9bd845049000cfeb5f92c
+    md5: a8df8912c7f1535d1df4ec3cd1ec8f8f
+work/llc270_it50_rain_1997:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_1997
+  hashes:
+    binhash: e09ec22f3f8eea6139959794d4d05263
+    md5: d35d771484faadc5872e67c34efc938f
+work/llc270_it50_rain_1998:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_1998
+  hashes:
+    binhash: eac949ff54dbabdaa9eead8ac34fb64f
+    md5: 325034477661d983da8e48fa427eb57d
+work/llc270_it50_rain_1999:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_1999
+  hashes:
+    binhash: e27769ceb07ead35fcb67ff293a6478a
+    md5: b9a26ed0f3c0deb2a442a542b6762ad8
+work/llc270_it50_rain_2000:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_2000
+  hashes:
+    binhash: dfc11eaf5d7e941b62e6af2db4b4d6b4
+    md5: 38e3a4c1453eff9c33277a879caef367
+work/llc270_it50_rain_2001:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_2001
+  hashes:
+    binhash: 0cea74e278d17e8580782509d2add117
+    md5: f24a98341abad2886af0a321dc6743e2
+work/llc270_it50_rain_2002:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_2002
+  hashes:
+    binhash: 6d223ae9afadcc4cf44f79d43113d6fc
+    md5: 879144a3161353a7985fd44c3ad7b9f6
+work/llc270_it50_rain_2003:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_2003
+  hashes:
+    binhash: d21bbec49ac431554f93add08ec145f3
+    md5: ea10d7bd1866b093048e82e579ffccdd
+work/llc270_it50_rain_2004:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_2004
+  hashes:
+    binhash: 5f1835a8c4c5ac2b0cef998a91fa55c2
+    md5: 6aad29a19da78cfeaa2a671d9c5e0633
+work/llc270_it50_rain_2005:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_2005
+  hashes:
+    binhash: e25af71ab6d342820846e536b0c0836c
+    md5: 7fd34c2dc8e43ff20bee5e31e634298b
+work/llc270_it50_rain_2006:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_2006
+  hashes:
+    binhash: f7cafa9cabae4425f8e19f4191903e7f
+    md5: 3abb25186523508b56101b0de89df644
+work/llc270_it50_rain_2007:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_2007
+  hashes:
+    binhash: c6b861028802f2f69602b9f74905f820
+    md5: 37377a65b2e92bb29f83fd77b0c9c171
+work/llc270_it50_rain_2008:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_2008
+  hashes:
+    binhash: c26b1f1c3f174ce8ec87e64e3a9b4661
+    md5: da93e4656f8ff47cce3eee66957f93fa
+work/llc270_it50_rain_2009:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_2009
+  hashes:
+    binhash: f5358e4c1d822aa81d1aa653a5fdf483
+    md5: 900fdebeb9bf611dd9905d75aa263f7e
+work/llc270_it50_rain_2010:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_2010
+  hashes:
+    binhash: a6381ccfc5a466a8204cd6c5c4c60dbc
+    md5: cde827b83ed314f95bd9c2579197e5d2
+work/llc270_it50_rain_2011:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_2011
+  hashes:
+    binhash: c9f1cfdd091b7008d4667d21dedf99f8
+    md5: 59d7c7010ddcf62ef7309166c2e07bd9
+work/llc270_it50_rain_2012:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_2012
+  hashes:
+    binhash: c105afc1e2658d1ec14e53372a70f711
+    md5: e6e16eaf3e1f35f251574901438b3d25
+work/llc270_it50_rain_2013:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_2013
+  hashes:
+    binhash: e3055576f7861c72d53da815794b2a86
+    md5: bf23505af0c7acb8fc1d6fd1511369f3
+work/llc270_it50_rain_2014:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_2014
+  hashes:
+    binhash: 2b7ac140b6bce178345b39fada62feab
+    md5: 71e95342aa49fd861f33709616d71277
+work/llc270_it50_rain_2015:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_2015
+  hashes:
+    binhash: b414921d586851e8fe67ea0e7ed52ab6
+    md5: 45836a90621d4e4f5938d73c3a638817
+work/llc270_it50_rain_2016:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_2016
+  hashes:
+    binhash: 0c677c9451f6c366930ac310d2dfd026
+    md5: 89bb59135d625b0eb2cf478f91f275e0
+work/llc270_it50_rain_2017:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_2017
+  hashes:
+    binhash: b01462a97c70204a71d4ba394a71b44d
+    md5: a88a88d50951636fd2f5e85ea2f9d5a4
+work/llc270_it50_rain_2018:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_rain_2018
+  hashes:
+    binhash: 4bd2ecfac7b8ce2009feb23cd3a3504a
+    md5: a88a88d50951636fd2f5e85ea2f9d5a4
+work/llc270_it50_spfh2m_1992:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_1992
+  hashes:
+    binhash: 122d1304849604fc2d62e1e602a61a6a
+    md5: 2d2fe32152d37323abb53b4fea67edae
+work/llc270_it50_spfh2m_1993:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_1993
+  hashes:
+    binhash: b1496e80f2b6f5d913d8899a0251f1e6
+    md5: 4854d247b62a2d88e4e296e4885f70e5
+work/llc270_it50_spfh2m_1994:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_1994
+  hashes:
+    binhash: 5ac409b088fb73b6c2684efbdab2d12e
+    md5: 63a4f8b6420a29d42a08bb97664113ed
+work/llc270_it50_spfh2m_1995:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_1995
+  hashes:
+    binhash: dc09e798b1fdce519db40efab1b76627
+    md5: 358d235e1e1f500b19cdf620c1c24143
+work/llc270_it50_spfh2m_1996:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_1996
+  hashes:
+    binhash: f528b65582766864320e895e6a26cc26
+    md5: 25a9ce49b189074fda26c66f5ac7ea57
+work/llc270_it50_spfh2m_1997:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_1997
+  hashes:
+    binhash: 9b7a2ceb7c31d1347e8d032ae8b56d5c
+    md5: 0e494c00f413c696255a2ed40b10e11b
+work/llc270_it50_spfh2m_1998:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_1998
+  hashes:
+    binhash: e9ac9c9b9dca50c1927052fd20a11d2e
+    md5: b63f1b6fc6e0e1c2cf0f34ded85d414b
+work/llc270_it50_spfh2m_1999:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_1999
+  hashes:
+    binhash: f077552cb460aa2f7d891ca255d7d93f
+    md5: b747f3a4de3bce49cf77d850a0a61c80
+work/llc270_it50_spfh2m_2000:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_2000
+  hashes:
+    binhash: cbff27a3f0be249b26c416aa867043ba
+    md5: 380208502f55b432d3688f81ebf39d28
+work/llc270_it50_spfh2m_2001:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_2001
+  hashes:
+    binhash: 0f704d704a4a356ccfac91d99886c533
+    md5: 467d0acc81c5e2a4e60aaf35ec39a165
+work/llc270_it50_spfh2m_2002:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_2002
+  hashes:
+    binhash: 2406967fdd40abe7fd7826fdfee61f49
+    md5: 8172cfc6cbdbe74c92730ff15aa7d824
+work/llc270_it50_spfh2m_2003:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_2003
+  hashes:
+    binhash: 65f079ebd96b2033fb2e3f4dd7b0c03f
+    md5: ae4dc1d80aacc53df80d3c9a88cadeaf
+work/llc270_it50_spfh2m_2004:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_2004
+  hashes:
+    binhash: e51e265b6640f676b593837082789cff
+    md5: 54dd6e59b7f6d5fd0fd30614d1759fe5
+work/llc270_it50_spfh2m_2005:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_2005
+  hashes:
+    binhash: d0da760af2e87299a8ef9131228564f2
+    md5: 35a250c4e71eab0470c07118b482909d
+work/llc270_it50_spfh2m_2006:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_2006
+  hashes:
+    binhash: 0302610a82b57337aef1b272ed10b866
+    md5: d1cf9ee586363893a8cfc572616335e8
+work/llc270_it50_spfh2m_2007:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_2007
+  hashes:
+    binhash: 20d5dbb0a9bd9061811660f96f2d8608
+    md5: 1b822fd8b712d94d880892185bca4fe3
+work/llc270_it50_spfh2m_2008:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_2008
+  hashes:
+    binhash: 12d58ff36cd40b8ad411ed1d37d73333
+    md5: 221737312ad17d683c6a21c65969bfd1
+work/llc270_it50_spfh2m_2009:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_2009
+  hashes:
+    binhash: 26896da0644334d4f55bba2865d35836
+    md5: da34a3dd535c8a5cbc1dfb2803ec596e
+work/llc270_it50_spfh2m_2010:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_2010
+  hashes:
+    binhash: 47c335e5cc6f774f5d336dd6e7b82b03
+    md5: cfcac63475e15a08b91d1110255f6bbe
+work/llc270_it50_spfh2m_2011:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_2011
+  hashes:
+    binhash: 059881fc13e42a67091515e17ea5c624
+    md5: 2a91efb8564a43be0530914d88f71930
+work/llc270_it50_spfh2m_2012:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_2012
+  hashes:
+    binhash: 9b8a13340254fcfc1ea5c344f21aafaf
+    md5: 497175c2f1f15455e85b5ca94ade1b7b
+work/llc270_it50_spfh2m_2013:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_2013
+  hashes:
+    binhash: bb588741c372168aa2d439ff3ce06a4f
+    md5: a7335221592e1381f7972d239f0f0e22
+work/llc270_it50_spfh2m_2014:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_2014
+  hashes:
+    binhash: eb65b566beb8e742155ca1e49742dd6e
+    md5: ac809ca042ddbe35eed57c9cd6f2558f
+work/llc270_it50_spfh2m_2015:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_2015
+  hashes:
+    binhash: 736a4e03cf27ac56d44a4eebce3c15c5
+    md5: 6baa8cf07e02ba5f74ee6b2387d3a9f0
+work/llc270_it50_spfh2m_2016:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_2016
+  hashes:
+    binhash: 698a551b18273a1e73cc1dcc3390bacd
+    md5: d67704a755a2a7c88f1501bf90e1c551
+work/llc270_it50_spfh2m_2017:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_2017
+  hashes:
+    binhash: 60ba42e3e35d391fa125b4035a6b5ab0
+    md5: e5358e38af223fb3f8261e6265649746
+work/llc270_it50_spfh2m_2018:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_spfh2m_2018
+  hashes:
+    binhash: b1573edc95d887ab169eb8b8d5161bdf
+    md5: e5358e38af223fb3f8261e6265649746
+work/llc270_it50_tmp2m_degC_1992:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_1992
+  hashes:
+    binhash: 0aa4dabaa8b7864d86a258842e9a0264
+    md5: 3258d9408f8f7a4be28c1f0d2e53d704
+work/llc270_it50_tmp2m_degC_1993:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_1993
+  hashes:
+    binhash: d221ac4cfe3721c5595ec4f4bb6ab083
+    md5: e213527a4cc086d265e0787ae630b8d7
+work/llc270_it50_tmp2m_degC_1994:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_1994
+  hashes:
+    binhash: 4268197e5b48262e99f60fca93f277e3
+    md5: e8106ebb7d026d8e16a408914704e857
+work/llc270_it50_tmp2m_degC_1995:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_1995
+  hashes:
+    binhash: cbe6194acfcc5fc6e427c8fd0ae22305
+    md5: d580c79b7bda28dcabc75bd4e95fac4f
+work/llc270_it50_tmp2m_degC_1996:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_1996
+  hashes:
+    binhash: c5b63a59398d39a34eafc85e6aa4d052
+    md5: dbe6d309188960dc0abbc1cfde215797
+work/llc270_it50_tmp2m_degC_1997:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_1997
+  hashes:
+    binhash: 68a53504107b746ea2ed238e32109753
+    md5: fa291c924ddfbabe0d15816b54d83c53
+work/llc270_it50_tmp2m_degC_1998:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_1998
+  hashes:
+    binhash: 0aec3bd581aaa2d7f59ba8969ded1653
+    md5: 8ca714914bdd8c506cc9d40762f4a8ab
+work/llc270_it50_tmp2m_degC_1999:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_1999
+  hashes:
+    binhash: bea165c95f2ad3096a54077e8fa5a366
+    md5: 2c5c20eff3eb64122910c0dc1ff54b67
+work/llc270_it50_tmp2m_degC_2000:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_2000
+  hashes:
+    binhash: 99aa21e4d68745e63d75448fcb3839d0
+    md5: f1aaa59ffbc28f5b4c4f331d24ab3e34
+work/llc270_it50_tmp2m_degC_2001:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_2001
+  hashes:
+    binhash: fd2b55baa3ae336ba683dddaa8ca1a7a
+    md5: 2df1924f559f33fec05978c8b0d7d7e1
+work/llc270_it50_tmp2m_degC_2002:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_2002
+  hashes:
+    binhash: ce49d69837eb363eb03e7ef12e389a48
+    md5: 1e843d645b89362dbea41b65e3c3c9e4
+work/llc270_it50_tmp2m_degC_2003:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_2003
+  hashes:
+    binhash: 8e2cfb094faea142b26ef7058f027030
+    md5: 5737a68e140a73a6b29fe6803d1c1243
+work/llc270_it50_tmp2m_degC_2004:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_2004
+  hashes:
+    binhash: 1fc15cd046ea0443e5c11563d133bef9
+    md5: 05a25c753a902f8283bc09a319ecd8f8
+work/llc270_it50_tmp2m_degC_2005:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_2005
+  hashes:
+    binhash: 72aa2ec1800958161bb104cd0613b146
+    md5: db92b1d3fdf4b6ab45dff421d9f37023
+work/llc270_it50_tmp2m_degC_2006:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_2006
+  hashes:
+    binhash: 1c88f1514f4740331ee7254197cf5a80
+    md5: c5c3ac3aada88ba3d188451f20e58189
+work/llc270_it50_tmp2m_degC_2007:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_2007
+  hashes:
+    binhash: 6c9f45f4d7aed2b183b3872b6c952fbf
+    md5: 1e57a2dcaa3bd5633e97b8ef99038c53
+work/llc270_it50_tmp2m_degC_2008:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_2008
+  hashes:
+    binhash: a95715a237a423c2c98cc9a9321a6f9a
+    md5: d114f2e8aae4750bb3e88d2738af2576
+work/llc270_it50_tmp2m_degC_2009:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_2009
+  hashes:
+    binhash: 02eec544624d9513ede2a28aedb92383
+    md5: 3e836be34073d0b62538d22c656548a5
+work/llc270_it50_tmp2m_degC_2010:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_2010
+  hashes:
+    binhash: 226e5e04669affa57bddcd9548155806
+    md5: aa9ab2e0e8c7887a439537739a14c302
+work/llc270_it50_tmp2m_degC_2011:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_2011
+  hashes:
+    binhash: 73ddccbb3d4001aedca55f571b5cd8b7
+    md5: 7b8489f623e7ffc6f926169c0d564afe
+work/llc270_it50_tmp2m_degC_2012:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_2012
+  hashes:
+    binhash: 06e14a3373245300f08eddb9f2cc0188
+    md5: 179ebdeadfad2d6a790d4f513c7de2d1
+work/llc270_it50_tmp2m_degC_2013:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_2013
+  hashes:
+    binhash: 63a2012471ae3df8fad33e6f09b1e1c6
+    md5: ea12a04e3a008da75d5f01f192b7767f
+work/llc270_it50_tmp2m_degC_2014:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_2014
+  hashes:
+    binhash: 92d62c39b07a93defad41a24522d2e73
+    md5: 1c37c06571543cadf3ddc84f20ecfcbd
+work/llc270_it50_tmp2m_degC_2015:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_2015
+  hashes:
+    binhash: 59881f6c740e63178390bd106a0aa5af
+    md5: b73898da37f47ad690d29fe63762909d
+work/llc270_it50_tmp2m_degC_2016:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_2016
+  hashes:
+    binhash: c76fdb58b2ba862d31fd04a3cd5a5ff8
+    md5: 7b05c0ee8bce9960f02aad1ff71ae54c
+work/llc270_it50_tmp2m_degC_2017:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_2017
+  hashes:
+    binhash: d7eae29fa0371e8f111b2467f0f1685d
+    md5: 39c139ecd255ed703ec50679b0500ec6
+work/llc270_it50_tmp2m_degC_2018:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_tmp2m_degC_2018
+  hashes:
+    binhash: a1cea9e3b041eb682b53aa56a76f2241
+    md5: 39c139ecd255ed703ec50679b0500ec6
+work/llc270_it50_u10m_1992:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_1992
+  hashes:
+    binhash: 38657338593fba41e942be14beb5657d
+    md5: 52f403ce272090dcaa7a7b7cf4580f01
+work/llc270_it50_u10m_1993:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_1993
+  hashes:
+    binhash: 74ddb76d55e9e44192a4f750efef4013
+    md5: 4855b82593db92060ba2817487ccdb98
+work/llc270_it50_u10m_1994:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_1994
+  hashes:
+    binhash: e6ed61a75ab9f6f8af0309e882b828fc
+    md5: 51959d1a0d0adc90429f7cc3ee2164ab
+work/llc270_it50_u10m_1995:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_1995
+  hashes:
+    binhash: 88c1a76c72d302f0124e37bd587a5f9c
+    md5: 075ccc500f7c8aefb929cf3b5482b867
+work/llc270_it50_u10m_1996:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_1996
+  hashes:
+    binhash: 5b53859cc28b8ce5bbf3371053b5e6a1
+    md5: e9f322a76e7a2fc9b13800ce64328570
+work/llc270_it50_u10m_1997:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_1997
+  hashes:
+    binhash: 0dfb37edcfca40156e29db1242bd480f
+    md5: fbdecca2d109d3069cc7574ad7c3ae4f
+work/llc270_it50_u10m_1998:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_1998
+  hashes:
+    binhash: c23f854afad5aeb7d6865643e762bc68
+    md5: 2506b3aa91f4ced5bfabc8bc9b47ad0c
+work/llc270_it50_u10m_1999:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_1999
+  hashes:
+    binhash: aa2691de520eee8633a1974eb6caa749
+    md5: e598f03607d5f62025fffd5d4a8c4c55
+work/llc270_it50_u10m_2000:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_2000
+  hashes:
+    binhash: f32ec14929d3d2e667242ce0ff9ba43d
+    md5: 8c7bc8a3f04082e690d75d42b3e64d42
+work/llc270_it50_u10m_2001:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_2001
+  hashes:
+    binhash: ec2466507ea38928491f94a7825a5c48
+    md5: eb2347c71b16985dc182aa7f5477437e
+work/llc270_it50_u10m_2002:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_2002
+  hashes:
+    binhash: 7c02cfa32b00b5d5c29cf1447abadfa0
+    md5: 0a890eaa39827c2e6f0c5fe8c740fa5f
+work/llc270_it50_u10m_2003:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_2003
+  hashes:
+    binhash: b2aeefdb42e76cc80de30c34cd76f588
+    md5: 87022ecc708cb673dce5ca35b33e6454
+work/llc270_it50_u10m_2004:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_2004
+  hashes:
+    binhash: 1d61528e86589084e866d3829261eeea
+    md5: 7c6faf253a7a2293a0efde33a09f3c5c
+work/llc270_it50_u10m_2005:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_2005
+  hashes:
+    binhash: be157a5dfd9238f22a94cc63a456737d
+    md5: 14845d27df014c64d58fe24e31d259fd
+work/llc270_it50_u10m_2006:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_2006
+  hashes:
+    binhash: 1a5477c5d6e936897b7084f930f434da
+    md5: 2e0664e8fec2dd80cc513f0b6cba5b55
+work/llc270_it50_u10m_2007:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_2007
+  hashes:
+    binhash: ed958a250f3eae693706db3770154808
+    md5: f67c6cacd176b4e3880f9334abb8a504
+work/llc270_it50_u10m_2008:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_2008
+  hashes:
+    binhash: da9909789697aad9838ad7b4c923f944
+    md5: 454a2817432d538f20845d0a700f1ee5
+work/llc270_it50_u10m_2009:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_2009
+  hashes:
+    binhash: b5f87c53c14f01ae452ae3dc357b0b85
+    md5: 094361c80c00b4060a64b7d37749f204
+work/llc270_it50_u10m_2010:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_2010
+  hashes:
+    binhash: 575efc985851079315dbd53656359bfe
+    md5: b7be57da139437a5fb38144b2a7779ed
+work/llc270_it50_u10m_2011:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_2011
+  hashes:
+    binhash: 6e777b191c89fcd2fbdc261ee397a199
+    md5: de0a6c913d8e8f1f5b8a35e5cf7efe61
+work/llc270_it50_u10m_2012:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_2012
+  hashes:
+    binhash: 8be0ae2f65003b46575fba27e1d697f2
+    md5: 4c90d846a4b014091558fd87f7b078fb
+work/llc270_it50_u10m_2013:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_2013
+  hashes:
+    binhash: d0d60b2853ad215eb01ee48e0a65c1fd
+    md5: 09eff1805d0274d26c2d21999a9f8539
+work/llc270_it50_u10m_2014:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_2014
+  hashes:
+    binhash: da39813b3f2ea5796b68fd2fba95d4ab
+    md5: cb052ae8a36f971f6f67ffe752f08747
+work/llc270_it50_u10m_2015:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_2015
+  hashes:
+    binhash: f5501d14ed5e0e9ac1d5feaad854a02b
+    md5: cb95a5d0de911205ecaae4b8c2c0c3e4
+work/llc270_it50_u10m_2016:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_2016
+  hashes:
+    binhash: f5bd9edcc7f7b4e85a2db1fa14c745dc
+    md5: 9f1cada2d4d97cdaea6bf3f05aa5915a
+work/llc270_it50_u10m_2017:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_2017
+  hashes:
+    binhash: 940a973d03931cdbca553ba8e37957e6
+    md5: 6f0be12239d89e6a02de2e405e53af9c
+work/llc270_it50_u10m_2018:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_u10m_2018
+  hashes:
+    binhash: fb4673377f7a9b3a4c0a3c4c9d3e1ac8
+    md5: 6f0be12239d89e6a02de2e405e53af9c
+work/llc270_it50_v10m_1992:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_1992
+  hashes:
+    binhash: 7fa4fb0ca49e0b984ff6517526fe018e
+    md5: fd8ee6b6448c950cecde5e30b8511488
+work/llc270_it50_v10m_1993:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_1993
+  hashes:
+    binhash: 3926b0de72277f1edb43cdef023f9127
+    md5: 0da86a9cbb6af54a1801f3199f03b3de
+work/llc270_it50_v10m_1994:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_1994
+  hashes:
+    binhash: 7539ec3a69e79f7ce73be85869e60fea
+    md5: 5474b7ed40416a6e4b2260f0710ca1c6
+work/llc270_it50_v10m_1995:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_1995
+  hashes:
+    binhash: 8dd48a5c73af2d89199f41e72abef774
+    md5: 105aaadfdc36e7b577ff65f0aaa0a8c1
+work/llc270_it50_v10m_1996:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_1996
+  hashes:
+    binhash: 870b0a7d651d569bdc6817ccbd533b40
+    md5: 93da6081be172ad17b65f98a44f758ab
+work/llc270_it50_v10m_1997:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_1997
+  hashes:
+    binhash: a07cffae59213dc4285e346cff9f2f6b
+    md5: e9c5d3177cfe5aa76a30986d85304364
+work/llc270_it50_v10m_1998:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_1998
+  hashes:
+    binhash: b92c436b44e91d1959ae6b3b079e0cc6
+    md5: 159f64d6ffd717ea8d51fdb95e634809
+work/llc270_it50_v10m_1999:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_1999
+  hashes:
+    binhash: d284e8e109e22bf72aef4a94184893ab
+    md5: 3492de9626ceecaf0216075747d4034a
+work/llc270_it50_v10m_2000:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_2000
+  hashes:
+    binhash: 020a4622646c32dedd4516171441d98e
+    md5: e6c2c3f6029794a539a6009582b6bda2
+work/llc270_it50_v10m_2001:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_2001
+  hashes:
+    binhash: 415ed72e504a2d1a68cad34d1c783a6c
+    md5: f30f5b2d388c8389603a9030ca3d970e
+work/llc270_it50_v10m_2002:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_2002
+  hashes:
+    binhash: db316fd043a0d30891dc84aaadf00815
+    md5: a2d4e4d737c19f3078f26730b2c0e28b
+work/llc270_it50_v10m_2003:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_2003
+  hashes:
+    binhash: 375d33a22d40e146aeb44b5fc48553fc
+    md5: e5b67000a75aae3836c22d5059f2e342
+work/llc270_it50_v10m_2004:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_2004
+  hashes:
+    binhash: 9a67ee6c0b6914a2f851813c4880887c
+    md5: 85549226c9f44beeba6f125b4001c48e
+work/llc270_it50_v10m_2005:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_2005
+  hashes:
+    binhash: 5460846a1a6111deb379a1d2e532d3f8
+    md5: 7b920bb38f9626e03e002df1abeb6397
+work/llc270_it50_v10m_2006:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_2006
+  hashes:
+    binhash: dca99f0c3506ca7fcd052d756206c08c
+    md5: e60f18d0bf3fdb5b63f73c773d9c17c0
+work/llc270_it50_v10m_2007:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_2007
+  hashes:
+    binhash: fe42d31f7ce968b962e324f2468e069d
+    md5: c5175ef5e19bf89cb4b9b27eabdd8e86
+work/llc270_it50_v10m_2008:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_2008
+  hashes:
+    binhash: e16ce3996528567963dee96d64d09126
+    md5: c9647dbd242b96e108346c0e8ab33bee
+work/llc270_it50_v10m_2009:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_2009
+  hashes:
+    binhash: 39fa355e54ff75da484fc5376e954158
+    md5: 136f865e364f4d5351a702c760f289ae
+work/llc270_it50_v10m_2010:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_2010
+  hashes:
+    binhash: eedaa3d466050cd5e7356c11b6735bb4
+    md5: af1586bdffac54b648dfc9da2045d9cd
+work/llc270_it50_v10m_2011:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_2011
+  hashes:
+    binhash: 0c01a44c1db24086b8ebc24952376819
+    md5: 29ec683829038ec41c0ecb46b026797b
+work/llc270_it50_v10m_2012:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_2012
+  hashes:
+    binhash: 9c51e23e1fa84d5974c2e6e1023716a1
+    md5: c92536a59889f77d6e7696c29ef63fba
+work/llc270_it50_v10m_2013:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_2013
+  hashes:
+    binhash: 02ec42d7fde09c41239aa87f1725612c
+    md5: 7a7c6c68451405d4c76ee4464c34be23
+work/llc270_it50_v10m_2014:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_2014
+  hashes:
+    binhash: d363f1e39e560e2b8943f8fe171173b6
+    md5: d69e97e12af87095c56d8edd5b495860
+work/llc270_it50_v10m_2015:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_2015
+  hashes:
+    binhash: a295b47202a6378d8bdd867158e3e183
+    md5: a230d7a46b168fc87e12eb9f6b5c6af2
+work/llc270_it50_v10m_2016:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_2016
+  hashes:
+    binhash: b115b4feeb4e3059ac02466546ec0d39
+    md5: c7f884caad612fac30a51f74f1311ef4
+work/llc270_it50_v10m_2017:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_2017
+  hashes:
+    binhash: e568a7714fd92e37967e9763a64d1d12
+    md5: df4af9474521d0c3c8511696613a0069
+work/llc270_it50_v10m_2018:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/llc270_it50_v10m_2018
+  hashes:
+    binhash: bc8d7037e29fc8aa0122123033f3bfde
+    md5: df4af9474521d0c3c8511696613a0069
+work/manifests/exe.yaml:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/manifests/exe.yaml
+  hashes:
+    binhash: 8f2ec09f5931f4df49c23eebe1867c72
+    md5: deba785b0a4edbf97a406ed459a68d37
+work/manifests/input.yaml:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/manifests/input.yaml
+  hashes:
+    binhash: b4a1a56e17bcdb80f18016d786523735
+    md5: b251b3010a40ed716dbfd247a4ef2af8
+work/manifests/restart.yaml:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/manifests/restart.yaml
+  hashes:
+    binhash: 1889460748efae480a53a73561c2a425
+    md5: 878609bbf19a68a4adb60e0bcac32e2a
+work/mitgcm.err:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/mitgcm.err
+  hashes:
+    binhash: 8ce702fa025a423d72b6f86c8fce2aa1
+    md5: 9238b5e7b47ff66d6002d52bd901f072
+work/mitgcm.out:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/mitgcm.out
+  hashes:
+    binhash: ded96cd1f5ef7f02d454c0207b3f0ab6
+    md5: d41d8cd98f00b204e9800998ecf8427e
+work/mitgcmice2.e110015398:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/mitgcmice2.e110015398
+  hashes:
+    binhash: 012ea98aa214fb54064d89092c39c417
+    md5: a3f14d29397e4d9ea967d2acd0716dc9
+work/mitgcmice2.o110015398:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/mitgcmice2.o110015398
+  hashes:
+    binhash: 128bee418becc3e5a4cc99d1ed1f3423
+    md5: 82d4054f210e9621afd5fdbd80fd30d7
+work/mitgcmuv:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/mitgcmuv
+  hashes:
+    binhash: fd3be2f6fb190c114940230f2abbe49b
+    md5: 120f770e4ef7eddc45864185394d67e6
+work/topo_200m.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/topo_200m.bin
+  hashes:
+    binhash: 655a611b1c597171bc30e1496e58b76c
+    md5: 229c1727dcd96582461c5fcb0b18bcc3
+work/topo_200mbox.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/topo_200mbox.bin
+  hashes:
+    binhash: b0e40bdd171d48aaac5a7503884d81ea
+    md5: 3459ae6a8136c6431f267f6d7e84d06c
+work/zero.bin:
+  fullpath: /home/156/cy8964/MITgcm-realistic/verification/PIG/test/zero.bin
+  hashes:
+    binhash: 2914c41f0548e5e970985e106104db3b
+    md5: 4fbcd75729863db7f93dec8b3760a196

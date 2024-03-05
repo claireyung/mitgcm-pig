@@ -1,0 +1,40 @@
+laboratory path:  /scratch/x77/cy8964/gadi_short/cy8964/mitgcm
+binary path:  /scratch/x77/cy8964/gadi_short/cy8964/mitgcm/bin
+input path:  /scratch/x77/cy8964/gadi_short/cy8964/mitgcm/input
+work path:  /scratch/x77/cy8964/gadi_short/cy8964/mitgcm/work
+archive path:  /scratch/x77/cy8964/gadi_short/cy8964/mitgcm/archive
+nruns: 1 nruns_per_submit: 1 subrun: 1
+Loading input manifest: manifests/input.yaml
+Loading restart manifest: manifests/restart.yaml
+Loading exe manifest: manifests/exe.yaml
+Excluding data.shelfice from configuration files: assumed to be not a namelist file (or empty)
+Setting up mitgcm
+Calculated n_timesteps from starttime and endtime
+  base time:  0.0
+  start time: 0.0
+  end time:   864000.0
+  niter0 :    0
+  ntimesteps: 43200
+  dt:         20.0
+  end - start:     864000.0
+  dt * ntimesteps: 864000.0
+Checking exe and input manifests
+Updating full hashes for 1 files in manifests/exe.yaml
+Updating full hashes for 8 files in manifests/input.yaml
+Creating restart manifest
+Writing manifests/input.yaml
+Writing manifests/restart.yaml
+Writing manifests/exe.yaml
+
+======================================================================================
+                  Resource Usage on 2024-03-05 23:54:56:
+   Job Id:             110117974.gadi-pbs
+   Project:            x77
+   Exit Status:        1
+   Service Units:      1.28
+   NCPUs Requested:    144                    NCPUs Used: 144             
+                                           CPU Time Used: 00:01:26        
+   Memory Requested:   200.0GB               Memory Used: 22.99GB         
+   Walltime requested: 03:00:00            Walltime Used: 00:00:16        
+   JobFS requested:    300.0MB                JobFS used: 0B              
+======================================================================================

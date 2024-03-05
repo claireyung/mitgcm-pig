@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/g/data/hh5/public/apps/miniconda3/envs/analysis3-23.10/bin/payu-run", line 10, in <module>
+    sys.exit(runscript())
+  File "/g/data/hh5/public/apps/miniconda3/envs/analysis3-23.10/lib/python3.10/site-packages/payu/subcommands/run_cmd.py", line 133, in runscript
+    expt.setup()
+  File "/g/data/hh5/public/apps/miniconda3/envs/analysis3-23.10/lib/python3.10/site-packages/payu/experiment.py", line 454, in setup
+    self.get_restarts_to_prune()
+  File "/g/data/hh5/public/apps/miniconda3/envs/analysis3-23.10/lib/python3.10/site-packages/payu/experiment.py", line 1056, in get_restarts_to_prune
+    index_bound = max_index - restart_history
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'int'
